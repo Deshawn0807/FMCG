@@ -1,0 +1,6 @@
+{
+  "name": "DistriCore FMCG - Distribution & Warehouse Management System",
+  "description": "Production-ready FMCG Distribution Management System with real-time inventory tracking, multi-warehouse operations, vendor management, orders, billing, GST invoicing, and supply chain analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
